@@ -1,2 +1,2 @@
-# AdsManager
+# Ads-Manager
 Kijiji ads manager
