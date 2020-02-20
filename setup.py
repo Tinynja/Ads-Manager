@@ -2,7 +2,9 @@ from setuptools import find_packages, setup
 
 requirements = [
   'selenium',
-  'Flask'
+  'Flask',
+  'Flask-SQLAlchemy',
+  'Flask-RESTful'
 ]
 
 setup(
