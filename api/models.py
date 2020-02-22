@@ -25,7 +25,7 @@ class AdPhoto(db.Model):
 
 
 class Category(db.Model):
-    # Category as listen in Kijiji
+    # Category as listed in Kijiji
     id = db.Column(db.Integer, primary_key=True)
     public_id = db.Column(db.Integer)
     name = db.Column(db.String)
